@@ -41,19 +41,6 @@ Power BI Desktop – Data modeling, DAX calculations, and interactive visuals.
 
 Excel / CSV – Dataset preparation.
 
-📷 Dashboard Preview
-
-(Add screenshots of your Power BI dashboard here for quick viewing)
-Example:
-
-🚀 How to Use
-
-Clone/download this repository.
-
-Open the .pbix file using Power BI Desktop.
-
-Refresh the dataset if needed.
-
 Explore the interactive visuals and slicers.
 
 📬 Contact
